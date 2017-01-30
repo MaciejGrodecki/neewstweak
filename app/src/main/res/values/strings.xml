@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Neewstweak</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="wiadomosc">Wiadomości</string>
+    <string name="sport">Sport</string>
+    <string name="pogoda">Pogoda</string>
+    <string name="film">Film</string>
+    <string name="gry">Gry</string>
+    <string name="praca">Praca</string>
+</resources>
